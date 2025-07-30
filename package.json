@@ -1,0 +1,10 @@
+{
+  "name": "com.ya7gi.anytimepomodorotimer",
+  "displayName": "Anytime Pomodoro Timer",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "いつでもポモドーロタイマーが使えるVRCアバターギミックです。",
+  "author": {
+    "name": "YA7GI"
+  }
+}
