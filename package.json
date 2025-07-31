@@ -6,8 +6,5 @@
   "description": "いつでもポモドーロタイマーが使えるVRCアバターギミックです。",
   "author": {
     "name": "YA7GI"
-  },
-  "vpmDependencies": {
-    "com.vrchat.avatars": ">=3.0.0"
   }
 }

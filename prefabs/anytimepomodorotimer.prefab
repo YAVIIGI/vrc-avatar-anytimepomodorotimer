@@ -13,7 +13,7 @@ GameObject:
   m_Layer: 0
   m_Name: anytimepomodorotimer
   m_TagString: Untagged
-  m_Icon: {fileID: 0}
+  m_Icon: {fileID: 2800000, guid: 2fcc81e25eb27f844b49c99c9e98241a, type: 3}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -52,21 +52,21 @@ MonoBehaviour:
     remapTo: 
     internalParameter: 0
     isPrefix: 0
-    syncType: 0
+    syncType: 3
     localOnly: 0
     defaultValue: 0
     saved: 0
-    hasExplicitDefaultValue: 0
+    hasExplicitDefaultValue: 1
     m_overrideAnimatorDefaults: 0
   - nameOrPrefix: anytimepomodorotimer_start
     remapTo: 
     internalParameter: 0
     isPrefix: 0
-    syncType: 0
+    syncType: 3
     localOnly: 0
     defaultValue: 0
     saved: 0
-    hasExplicitDefaultValue: 0
+    hasExplicitDefaultValue: 1
     m_overrideAnimatorDefaults: 0
   - nameOrPrefix: timerPositionID
     remapTo: 
@@ -75,7 +75,7 @@ MonoBehaviour:
     syncType: 1
     localOnly: 0
     defaultValue: 0
-    saved: 0
+    saved: 1
     hasExplicitDefaultValue: 1
     m_overrideAnimatorDefaults: 0
 --- !u!1 &619023574581767942
@@ -257,7 +257,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Control:
     name: 
-    icon: {fileID: 0}
+    icon: {fileID: 2800000, guid: efaea32e114700944988dce3ac30dcd8, type: 3}
     type: 103
     parameter:
       name: 
@@ -319,7 +319,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Control:
     name: 
-    icon: {fileID: 0}
+    icon: {fileID: 2800000, guid: 2fcc81e25eb27f844b49c99c9e98241a, type: 3}
     type: 102
     parameter:
       name: timerPositionID
@@ -540,7 +540,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Control:
     name: 
-    icon: {fileID: 0}
+    icon: {fileID: 2800000, guid: 2fcc81e25eb27f844b49c99c9e98241a, type: 3}
     type: 102
     parameter:
       name: anytimepomodorotimer_start
@@ -634,7 +634,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Control:
     name: 
-    icon: {fileID: 0}
+    icon: {fileID: 2800000, guid: 2fcc81e25eb27f844b49c99c9e98241a, type: 3}
     type: 102
     parameter:
       name: timerPositionID
@@ -810,7 +810,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Control:
     name: 
-    icon: {fileID: 0}
+    icon: {fileID: 2800000, guid: 2fcc81e25eb27f844b49c99c9e98241a, type: 3}
     type: 103
     parameter:
       name: 
@@ -872,7 +872,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Control:
     name: 
-    icon: {fileID: 0}
+    icon: {fileID: 2800000, guid: 2fcc81e25eb27f844b49c99c9e98241a, type: 3}
     type: 102
     parameter:
       name: timerPositionID
@@ -934,7 +934,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Control:
     name: 
-    icon: {fileID: 0}
+    icon: {fileID: 2800000, guid: 2fcc81e25eb27f844b49c99c9e98241a, type: 3}
     type: 102
     parameter:
       name: timerPositionID
@@ -1094,7 +1094,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Control:
     name: 
-    icon: {fileID: 0}
+    icon: {fileID: 2800000, guid: e1564f52037d48a45b07fc2b9648d768, type: 3}
     type: 102
     parameter:
       name: anytimepomodorotimer_show
@@ -1187,7 +1187,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Control:
     name: 
-    icon: {fileID: 0}
+    icon: {fileID: 2800000, guid: 2fcc81e25eb27f844b49c99c9e98241a, type: 3}
     type: 102
     parameter:
       name: timerPositionID
